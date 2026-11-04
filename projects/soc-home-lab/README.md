@@ -65,3 +65,14 @@ Log analysis, alert triage, SIEM fundamentals, Windows telemetry, event correlat
 ## Disclaimer
 
 Generate test events only in an isolated lab or systems you are authorized to monitor. Remove hostnames, usernames, IPs, tokens, and other sensitive data before publication.
+
+
+## Tests
+
+The CSV helper includes standard-library unit tests:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+These tests cover header detection and basic event-ID counting. They do not validate detection logic or determine whether any event is malicious.
