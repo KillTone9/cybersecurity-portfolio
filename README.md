@@ -1,187 +1,66 @@
-# Hi, I'm Jurgen Pérez 👋
+# Jurgen Perez | Cybersecurity Portfolio
 
-## Cybersecurity Analyst | SOC Enthusiast | Security Researcher
+**Cybersecurity Technician | SOC Operations | Network Security | Digital Forensics**  
+San Jose, Costa Rica
 
-I am a Cybersecurity Technician with hands-on experience in security monitoring, network analysis, vulnerability assessment, malware research, and secure infrastructure design.
+I am a Cybersecurity Technician graduate building practical skills through controlled labs, technical projects, and security research. My current focus is entry-level Security Operations (SOC), alert triage, network analysis, incident investigation, and security documentation.
 
-My goal is to build a professional career in Security Operations (SOC), Incident Response, Threat Detection, and Information Security.
+- LinkedIn: [jurgen-perez-madrigal](https://www.linkedin.com/in/jurgen-perez-madrigal)
+- GitHub: [@KillTone9](https://github.com/KillTone9)
+- Email: jurgenprz@gmail.com
 
----
+## Technical focus
 
-## Areas of Interest
+| Area | Tools and concepts |
+|---|---|
+| Security monitoring | Wazuh, Splunk, Windows Event Viewer, Sysmon |
+| Network analysis | Wireshark, Nmap, TCP/IP, DNS, HTTP/S |
+| Systems | Windows Server, Active Directory, Linux, Kali Linux |
+| Network security | Cisco Packet Tracer, pfSense, VLANs, ACLs |
+| Digital forensics | Mobile acquisition concepts, artifact analysis, evidence integrity |
+| Scripting and development | Python, Bash, Git |
 
-* Security Operations Center (SOC)
-* Incident Detection & Response
-* Threat Hunting
-* Vulnerability Management
-* Network Security
-* Malware Analysis
-* Security Automation
-* Cloud & Infrastructure Security
+Tools listed here reflect learning and laboratory exposure; project pages describe the specific work and its scope.
 
----
-
-## Technical Skills
-
-### Security
-
-* Vulnerability Assessment
-* Security Monitoring
-* Threat Analysis
-* Incident Investigation
-* Risk Assessment
-* CIS Controls v8
-* Security Best Practices
-
-### Networking
-
-* TCP/IP
-* DNS
-* DHCP
-* VLANs
-* Routing & Switching
-* Network Segmentation
-* Firewall Policies
-
-### Tools
-
-* Kali Linux
-* Wireshark
-* Nmap
-* Cisco Packet Tracer
-* Windows Server
-* Linux
-* Git
-* GitHub
-
-### Programming
-
-* Python
-* Bash Scripting
-
----
-
-## Featured Projects
-
-### Kali Linux Penetration Testing Lab
-
-Designed and maintained a controlled cybersecurity laboratory for practicing:
-
-* Host Discovery
-* Port Scanning
-* Service Enumeration
-* Vulnerability Assessment
-* Traffic Analysis
-
-Technologies:
-Kali Linux, Nmap, Wireshark, Netdiscover
-
----
+## Featured repositories
 
 ### Network Traffic Analysis
+Packet-analysis study using Wireshark to explore network protocols, conversations, filtering, and security considerations.
 
-Performed packet capture and network analysis to identify:
+[Open repository](https://github.com/KillTone9/network-traffic-analysis)
 
-* Active Hosts
-* Communication Patterns
-* Protocol Usage
-* Potential Security Issues
+### Network Infrastructure Security Assessment
+A simulated-infrastructure assessment exercise covering network architecture, risk identification, segmentation, access control, and mitigation recommendations.
 
-Technologies:
-Wireshark
+[Open repository](https://github.com/KillTone9/network-security-assessment)
 
----
+### PayPal Bug Bounty Research
+A security-research notes repository documenting a reported observation and the investigation context. The repository does not imply vendor validation, acceptance, or a confirmed vulnerability unless supporting evidence is published.
 
-### Malware Analysis Research
+[Open repository](https://github.com/KillTone9/paypal-bug-bounty-research)
 
-Conducted research on malware behavior, infection vectors, and defensive strategies.
+## Additional work to publish
 
-Topics:
+The following projects are being prepared for independent repositories as source code, lab configurations, and reproducible evidence are consolidated:
 
-* Ransomware
-* Trojans
-* Spyware
-* Worms
-* Indicators of Compromise (IOCs)
+- **Mobile Forensic Suite** — CLI workflow for acquisition, analysis, and reporting; project notes include ADB/iOS workflows, messaging artifacts, SQLite, HMAC-SHA256, and PBKDF2.
+- **SOC Monitoring Lab** — Wazuh and Splunk log collection, alert review, and initial triage exercises.
+- **Windows Active Directory Lab** — domain administration, users and groups, organizational units, Group Policy, and authentication fundamentals.
+- **Windows Incident Investigation** — Sysmon and Windows event analysis, persistence-related artifacts, and controlled investigation exercises.
 
----
+These entries are planned publication work, not claims that source code or complete evidence is currently available in this profile.
 
-### CIS Controls v8 Security Assessment
+## Professional development
 
-Applied CIS Controls recommendations to mitigate organizational risks involving:
+- Technical Diploma in Cybersecurity — Universidad CENFOTEC (graduate).
+- Cisco Networking Academy — Introduction to Networks.
+- CompTIA Security+ SY0-701 — exam preparation in progress.
 
-* Unauthorized Access
-* Poor Network Segmentation
-* Unmonitored Traffic
-* Asset Management
+## Portfolio standards
 
----
+Each project is intended to include its objective, scope, environment, methodology, tools, evidence, findings, limitations, and remediation or lessons learned. Sensitive information, credentials, private data, and unauthorized target data must never be committed.
 
-### Secure Enterprise Network Design
-
-Designed a secure enterprise network architecture including:
-
-* VLAN Segmentation
-* Access Control Lists (ACLs)
-* Firewall Policies
-* Security Zones
-
-Technologies:
-Cisco Packet Tracer
+> All security testing described in this portfolio is intended for systems I own, have permission to assess, or explicitly authorized training environments.
 
 ---
-
-### Python Security Automation
-
-Developing Python-based security utilities for:
-
-* Port Scanning
-* Log Analysis
-* Security Automation
-* Security Auditing
-
----
-
-### Bug Bounty Research
-
-Research and study of web application vulnerabilities including:
-
-* Authentication Issues
-* Access Control Weaknesses
-* Information Disclosure
-* Reconnaissance Techniques
-
----
-
-## Certifications & Learning
-
-Currently preparing for:
-
-* CompTIA Security+ (SY0-701)
-
-Completed:
-
-* Cybersecurity Technical Program
-* Network Security Labs
-* Security Operations Training
-
----
-
-## Current Focus
-
-* Security Operations Center (SOC)
-* Threat Detection
-* Incident Response
-* Security Automation with Python
-* Blue Team Operations
-
----
-
-## Contact
-
-LinkedIn:
-[www.linkedin.com/in/jurgen-perez-madrigal](http://www.linkedin.com/in/jurgen-perez-madrigal)
-
-Email:
-[jurgenprz@gmail.com](mailto:jurgenprz@gmail.com)
-
+*This portfolio is continuously updated as project source code, lab artifacts, and supporting evidence are prepared for publication.*
