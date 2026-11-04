@@ -39,6 +39,15 @@ A security-research notes repository documenting a reported observation and the 
 
 [Open repository](https://github.com/KillTone9/paypal-bug-bounty-research)
 
+## Project documentation and utilities
+
+| Project | Published material |
+|---|---|
+| Mobile Forensic Suite | [Evidence handling notes](projects/mobile-forensic-suite/evidence-handling.md) |
+| SOC Monitoring Home Lab | [Splunk search examples](projects/soc-home-lab/splunk-search-examples.md), [Windows CSV triage helper](projects/soc-home-lab/windows_event_csv_triage.py), [unit tests](projects/soc-home-lab/tests/test_windows_event_csv_triage.py) |
+| Windows Active Directory Lab | [Project brief](projects/windows-active-directory-lab/README.md) |
+| Windows Incident Investigation | [Event ID reference](projects/windows-incident-investigation/event-id-reference.md) |
+
 ## Additional project briefs
 
 Documentation drafts for projects whose source code and lab evidence will be added later:
