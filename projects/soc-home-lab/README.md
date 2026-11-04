@@ -27,6 +27,16 @@ The intended workflow reflects entry-level SOC responsibilities: understand the 
 6. Record evidence, confidence, impact, and recommended next steps.
 7. Escalate when the available evidence supports further investigation.
 
+## Included helper script
+
+[windows_event_csv_triage.py](windows_event_csv_triage.py) is a standard-library Python utility that counts Event IDs in a Windows Event Viewer CSV export. It is an educational triage aid, not a detection engine or incident verdict.
+
+```bash
+python windows_event_csv_triage.py sanitized-events.csv
+```
+
+The helper has not been validated against a user-provided export. Check the CSV column names and test with sanitized lab data before use.
+
 ## Example investigation topics
 
 - Repeated failed logons and Windows Event ID 4625.
