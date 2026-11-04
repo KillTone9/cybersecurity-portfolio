@@ -39,6 +39,16 @@ A security-research notes repository documenting a reported observation and the 
 
 [Open repository](https://github.com/KillTone9/paypal-bug-bounty-research)
 
+## Additional project briefs
+
+Documentation drafts for projects whose source code and lab evidence will be added later:
+
+- [Mobile Forensic Suite](projects/mobile-forensic-suite/README.md)
+- [SOC Monitoring Home Lab](projects/soc-home-lab/README.md)
+- [Windows Server and Active Directory Lab](projects/windows-active-directory-lab/README.md)
+- [Windows Incident Investigation Exercises](projects/windows-incident-investigation/README.md)
+- [All project briefs](projects/README.md)
+
 ## Additional work to publish
 
 The following projects are being prepared for independent repositories as source code, lab configurations, and reproducible evidence are consolidated:
